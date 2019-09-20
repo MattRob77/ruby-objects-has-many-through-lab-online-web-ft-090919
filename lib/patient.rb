@@ -25,7 +25,4 @@ class Patient
     appointments.each {|appt| docs << appt.doctor}
     docs
   end
-  
-  
-
-end
+end 
